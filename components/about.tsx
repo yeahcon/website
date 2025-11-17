@@ -1,3 +1,5 @@
+'use client'
+
 import { GraduationCap, BookOpen, Code } from 'lucide-react'
 
 export function About() {

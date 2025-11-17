@@ -1,3 +1,4 @@
+'use client'
 import { Shield, Terminal, Lock } from 'lucide-react'
 import { Button } from '@/components/ui/button'
 
